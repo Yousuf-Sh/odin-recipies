@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background-color: rgb(60, 65, 66);
+    font-family: 'Calibri','Gill Sans', 'Gill Sans MT' ,'Trebuchet MS', sans-serif; 
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: justify;
+}
+img{
+    width: 350px;
+    height: auto;
+}
+p{
+    font-size: large;
+    font-weight: lighter;
+}
+a{
+    font-weight: bold;
+    font-size: medium;
+}
+a:visited{
+    color: rgb(191, 221, 248);
+}
+.Main-List{
+    text-decoration: none;  
+}
